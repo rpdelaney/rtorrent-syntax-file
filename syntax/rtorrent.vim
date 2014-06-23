@@ -24,5 +24,5 @@ endif
 HiLink rtorrentSettingAttempt String
 HiLink rtorrentStatement Type
 HiLink rtorrentComment Comment
-HiLink rtorrentSetting Operator
+HiLink rtorrentSetting Macro
 HiLink rtorrentOp	   Special
